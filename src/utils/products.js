@@ -151,6 +151,14 @@ const products = [
     `dataflow.googleapis.com`
   ),
   new Product(
+    `datalabeling`,
+    `Google Cloud Data Labeling API`,
+    `Cloud Data Labeling`,
+    `${BASE}/datalabeling/docs`,
+    `[Cloud Labeling]({{docs_url}}) TBD`,
+    `datalabeling.googleapis.com`
+  ),
+  new Product(
     `dataproc`,
     `Google Cloud Dataproc`,
     `Cloud Dataproc`,
